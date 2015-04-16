@@ -1,10 +1,10 @@
 {
-  "name": "settingsator",
+  "name": "apphome",
   "version": "0.0.0",
   "description": "Settings for node.js apps",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": ""
   },
   "repository": {
     "type": "git",
