@@ -1,5 +1,5 @@
 {
-  "name": "apphome",
+  "name": "~",
   "version": "0.0.0",
   "description": "Settings for node.js apps",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrkev/settingsator.git"
+    "url": "https://github.com/mrkev/tilde.git"
   },
   "keywords": [
     "settings",
@@ -18,7 +18,7 @@
   "author": "mrkev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrkev/settingsator/issues"
+    "url": "https://github.com/mrkev/tilde/issues"
   },
-  "homepage": "https://github.com/mrkev/settingsator"
+  "homepage": "https://github.com/mrkev/tilde"
 }
